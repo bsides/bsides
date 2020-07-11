@@ -7,4 +7,4 @@
 
 Também falo 3 línguas, então você pode ler minha intro nelas também 🤩
 
-~ [PORTUGUÊS BRASILEIRO](README_PT.md) ~ [ENGLISH (Inglês)](README_EN.md) ~ [ESPAÑOL (Espanhol)](README_ES.md) ~
+~ [ENGLISH (Inglês)](README_EN.md) ~ [ESPAÑOL (Espanhol)](README_ES.md) ~
