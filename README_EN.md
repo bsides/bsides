@@ -7,7 +7,7 @@
 
 I also speak 3 languages so you can see my intro in those as well 🤩
 
-~ [PORTUGUÊS BRASILEIRO (Brazilian Portuguese)](README.md) ~ [ENGLISH](README_EN.md) ~ [ESPAÑOL (Spanish)](README_ES.md) ~
+~ [PORTUGUÊS BRASILEIRO (Brazilian Portuguese)](README_PT.md) ~ [ENGLISH](README_EN.md) ~ [ESPAÑOL (Spanish)](README_ES.md) ~
 
 <!--
 **bsides/bsides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
