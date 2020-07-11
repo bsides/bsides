@@ -6,6 +6,7 @@
 - 📫 How to reach me: [Ask me here](https://github.com/bsides/bsides/issues)! Or if you prefer, [Twitter](https://twitter.com/bsides), [Telegram](https://t.me/bsides) and Discord as BSIDES#9436.
 
 I also speak 3 languages so you can see my intro in those as well 🤩
+
 ~ [PORTUGUÊS BRASILEIRO (Brazilian Portuguese)](README.md) ~ [ENGLISH](README_EN.md) ~ [ESPAÑOL (Spanish)](README_ES.md) ~
 
 <!--
