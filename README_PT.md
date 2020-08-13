@@ -7,4 +7,4 @@
 
 Também falo 3 línguas, então você pode ler minha intro nelas também 🤩
 
-~ [ENGLISH (Inglês)](README_EN.md) ~ [ESPAÑOL (Espanhol)](README_ES.md) ~
+~ [ENGLISH (Inglês)](https://github.com/bsides/bsides/blob/master/README_EN.md) ~ [ESPAÑOL (Espanhol)](https://github.com/bsides/bsides/blob/master/README_ES.md) ~
