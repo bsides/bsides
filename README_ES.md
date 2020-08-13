@@ -7,4 +7,4 @@
 
 También hablo 3 idiomas para que puedas ver mi introducción en esos también 🤩
 
-~ [PORTUGUÊS BRASILEIRO (Portugués Brasileño](README_PT.md) ~ [ENGLISH (Inglés)](README_EN.md) ~
+~ [PORTUGUÊS BRASILEIRO (Portugués Brasileño](https://github.com/bsides/bsides/blob/master/README_PT.md) ~ [ENGLISH (Inglés)](https://github.com/bsides/bsides/blob/master/README_EN.md) ~
