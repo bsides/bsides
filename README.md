@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m a Frontend Developer.
-- ⚡ Preferred tools: VSCode, Node, React, Vite, Tailwind, Nextjs, Remix, Testing Library, Git, iTerm/Warp, Docker and... well, any OS these days (even Windows!)
+- ⚡ Preferred tools: VSCode, Node, React, Vite, NextJS, Remix, Tailwind, Testing Library, Git, iTerm/Warp, Docker and... well, any OS these days (even Windows!)
 - 📫 How to reach me: [Ask me here](https://github.com/bsides/bsides/issues)! Or if you prefer, [Twitter](https://twitter.com/bsides), [Telegram](https://t.me/bsides) and Discord as BSIDES#9436.
 
 I also speak 3 languages so you can see my intro in those as well 🤩
