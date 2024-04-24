@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Frontend Developer in a big retail company which is transitioning to a better digital service.
-- 🌱 I’m currently learning how to rearrange my house because I just moved 😅
-- ⚡ Preferred tools: VSCode, Node, React, Webpack, Nextjs, Gatsby, Styled Components, Jest, Testing Library, Git, iTerm (please come to other OS), Docker and... well, any OS these days (even Windows!)
+- 🔭 I’m a Frontend Developer.
+- ⚡ Preferred tools: VSCode, Node, React, Vite, NextJS, Remix, Tailwind, Testing Library, Git, iTerm/Warp, Docker and... well, any OS these days (even Windows!)
 - 📫 How to reach me: [Ask me here](https://github.com/bsides/bsides/issues)! Or if you prefer, [Twitter](https://twitter.com/bsides), [Telegram](https://t.me/bsides) and Discord as BSIDES#9436.
 
 I also speak 3 languages so you can see my intro in those as well 🤩
